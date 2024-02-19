@@ -18,6 +18,12 @@
     <ClCompile Include="OpenClose.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LiskovSubstitution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InterfaceSegregation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="journal.txt">
